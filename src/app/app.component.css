@@ -265,7 +265,7 @@
 }
 
 /*SVGs*/
-.hamburger__icon {
+.aditya__icon {
   position: relative;
   z-index: 50;
   height: 1rem;
@@ -287,11 +287,11 @@
   fill: #ffff;
 }
 
-.hamburger__icon__fill {
+.aditya__icon__fill {
   fill: #2b244d;
 }
 
-.hamburger__icon__fill-dark {
+.aditya__icon__fill-dark {
   fill: #ffff;
 }
 
@@ -333,7 +333,7 @@
     margin: 0 auto;
   }
 
-  .hamburger__icon {
+  .aditya__icon {
     margin-right: 0;
   }
 

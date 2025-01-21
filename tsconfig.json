@@ -3,6 +3,8 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "types": ["node"],
+    "typeRoots": ["node_modules/@types"],
     "outDir": "./dist/out-tsc",
     "strict": true,
     "noImplicitOverride": true,
